@@ -1,0 +1,1 @@
+This is a simple Python script which will automatically embade the provided text with spoiler tags and copy it to clipboard.
